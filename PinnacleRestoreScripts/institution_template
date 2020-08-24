@@ -1,0 +1,153 @@
+InstitutionID = 721;
+InstitutionPath = "Institution_721";
+PinnInstitutionPath = "Institution_721";
+Name = "---V92---Thorax";
+StreetAddress = "";
+StreetAddress2 = "";
+City = "";
+State = "";
+ZipCode = "";
+Country = "";
+PatientLiteList ={
+  PatientLite ={
+    PatientID = 16780;
+    PatientPath = "Institution_721/Mount_0/Patient_16780";
+    MountPoint = "Mount_0";
+    FormattedDescription = "Liu&&Xiumei-fusion&&&&358910&&ZhaoLujun&&2014-05-19 11:49:03";
+    DirSize = 320.611;
+  };
+};
+MountPointList ={
+  SimpleString ={
+    String = "Mount_0";
+  };
+};
+SelectedMachineDirList ={
+};
+BackupMachineList ={
+  BackupMachine ={
+    Name = "(old) Varian 600CD,   ";
+    Directory = "Machine.0";
+    DirSize = 6.50879;
+    WriteDate = "2010-02-06 15:11:34\";";
+  };
+  BackupMachine ={
+    Name = "(old) 1304,   ";
+    Directory = "Machine.1";
+    DirSize = 3.64844;
+    WriteDate = "2013-06-27 10:54:12\";";
+  };
+  BackupMachine ={
+    Name = "Varian 600CD,   ";
+    Directory = "Machine.10";
+    DirSize = 6.50879;
+    WriteDate = "2013-10-11 13:43:20\";";
+  };
+  BackupMachine ={
+    Name = "(old) 5569,   ";
+    Directory = "Machine.2";
+    DirSize = 8.20996;
+    WriteDate = "2013-06-27 11:05:52\";";
+  };
+  BackupMachine ={
+    Name = "(old) Varian 600CD,   ";
+    Directory = "Machine.3";
+    DirSize = 6.50879;
+    WriteDate = "2013-06-27 11:20:02\";";
+  };
+  BackupMachine ={
+    Name = "(old) 1304,   ";
+    Directory = "Machine.4";
+    DirSize = 3.64844;
+    WriteDate = "2013-06-26 11:32:39\";";
+  };
+  BackupMachine ={
+    Name = "(old) 5569,   ";
+    Directory = "Machine.5";
+    DirSize = 8.08496;
+    WriteDate = "2013-06-27 10:11:28\";";
+  };
+  BackupMachine ={
+    Name = "(old) 1304_NEW,   ";
+    Directory = "Machine.6";
+    DirSize = 3.64844;
+    WriteDate = "2013-09-14 10:20:49\";";
+  };
+  BackupMachine ={
+    Name = "5569,   ";
+    Directory = "Machine.7";
+    DirSize = 8.20996;
+    WriteDate = "2013-09-15 10:12:03\";";
+  };
+  BackupMachine ={
+    Name = "1304,   ";
+    Directory = "Machine.8";
+    DirSize = 3.64844;
+    WriteDate = "2013-09-14 11:15:57\";";
+  };
+  BackupMachine ={
+    Name = "(old) 5569,   ";
+    Directory = "Machine.9";
+    DirSize = 8.20996;
+    WriteDate = "2013-09-14 14:48:21\";";
+  };
+};
+BackupMachineListNonCommissioned ={
+  BackupMachine ={
+    Name = "Varian 600CD,   ";
+    Directory = "Machine.0";
+    DirSize = 6.50879;
+    WriteDate = "2014-02-07 15:17:21\";";
+  };
+  BackupMachine ={
+    Name = "5569,   ";
+    Directory = "Machine.1";
+    DirSize = 8.20996;
+    WriteDate = "2014-02-07 15:17:21\";";
+  };
+  BackupMachine ={
+    Name = "1304,   ";
+    Directory = "Machine.2";
+    DirSize = 3.64844;
+    WriteDate = "2014-02-07 15:17:21\";";
+  };
+};
+BackupIsotopeList ={
+};
+BackupIsotopeListNonCommissioned ={
+};
+DeviceSpaceRequiredPatients = 0;
+DeviceSpaceRequiredPhysics = 0;
+DeviceSpaceRequiredScripts = 0;
+DeviceSpaceRequiredOrganModels = 0;
+DeviceSpaceRequiredAtlas = 0;
+DefaultMountPoint = "Mount_0";
+BackupDescription = "";
+BackupVolume = "";
+BackupFileName = "";
+Session = "1";
+ScriptsDir = "";
+OrganModelsDir = "";
+AtlasFile = "";
+BackupTimeStamp = "";
+BackupDeviceType = "None";
+IsPatientBackup = 1;
+IsPhysicsMachinesBackup = 0;
+IncludePhysicsData = 0;
+MachinesInV7Format = 0;
+IsSolarisFormat = 1;
+IncludeAllPatients = 0;
+FullFileNameIncluded = 0;
+BackupID = 0;
+SortFields = "Patient Lastname";
+ObjectVersion ={
+  WriteVersion = "Launch Pad: 9.8";
+  CreateVersion = "Launch Pad: 9.6";
+  LoginName = "ww";
+  CreateTimeStamp = "2014-05-27 10:08:47";
+  WriteTimeStamp = "2014-07-01 15:56:18";
+  LastModifiedTimeStamp = "2014-07-01.15:56:18";
+};
+DynamicRebuild = 0;
+
+/* ij */
